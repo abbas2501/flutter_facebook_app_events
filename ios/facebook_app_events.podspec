@@ -22,5 +22,6 @@ Flutter plugin for Facebook Analytics and App Events
   
   # See docs on FBAudienceNetwork
   # https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/ios/add-sdk/
-  s.dependency 'FBAudienceNetwork', '~> 6.12'
+  s.dependency 'FBAudienceNetwork', '~> 6.11.2'
+
 end
